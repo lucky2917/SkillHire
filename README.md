@@ -36,7 +36,7 @@ SkillHire is an innovative recruitment platform that transforms the hiring lands
 
 1. Clone the repository to your local server directory:
    ```bash
-   git clone [repository-url] SkillHire
+   git clone https://github.com/lucky2917/SkillHire
    ```
 
 2. Navigate to the project directory:
