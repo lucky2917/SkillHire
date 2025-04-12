@@ -1,0 +1,48 @@
+# PHP configuration files
+config.php
+
+# Environment files
+.env
+.env.*
+
+# Composer dependencies
+/vendor/
+composer.lock
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Cache and temporary files
+/cache/
+/tmp/
+*.tmp
+*.cache
+
+# Session files
+/sessions/
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# PHPMailer configuration
+PHPMailer/get_oauth_token.php
