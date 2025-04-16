@@ -61,6 +61,9 @@ https://drive.google.com/file/d/1qMOYuQn-NItZNU9-mk1EeiJ-Hgo4HTIU/view?usp=shari
 	•	Update SMTP settings in the configuration file
 	•	Set up email credentials for notifications
 
+	8.The Hosting Link is: 
+	http://13.233.201.170/SkillHire
+
 Usage
 
 For Job Seekers
